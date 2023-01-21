@@ -1,0 +1,7 @@
+{
+  _id: ObjectId,
+  groupId: String,
+  message: String,
+  senderId: String,
+  timestamp: Date,
+}
