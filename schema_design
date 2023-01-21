@@ -1,5 +1,5 @@
 {
-  id: ObjectId,
+  id: EntityId,
   groupId: String,
   senderId: String,
   message: String,
